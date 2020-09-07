@@ -1,2 +1,2 @@
-# nginx-templates
+# nginx templates
 🖍️📑 Templates for nginx configuration 
